@@ -1,12 +1,4 @@
-Pod 1 MFPE
-Pension Management System
 
-Developed by:
-Himanshu shivhare
-Khushagra sahu
-Saloni Mehra
-Deepansh
-Sumit 
 --------------------------------------------------------------------------------------------------
 Web Portal Access point: http://localhost:9096/
 
