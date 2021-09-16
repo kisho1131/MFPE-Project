@@ -11,5 +11,4 @@ public class PensionDisbursementApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(PensionDisbursementApplication.class, args);
 	}
-
 }

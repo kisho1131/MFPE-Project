@@ -39,9 +39,7 @@ public class PensionDisbursementController {
 			return processCode;
 		}
 		logger.info("END - Token invalid");
-
 		return processCode;
-
 	}
 
 	@PostMapping("/getServiceCharge")
